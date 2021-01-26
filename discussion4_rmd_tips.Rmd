@@ -1,0 +1,40 @@
+---
+title: "discussion4_rmd_tips"
+author: "Genevieve Chiong"
+date: "1/26/2021"
+output: 
+  html_document:
+    theme: cerulean
+    toc: true
+    toc_float: true
+    number_sections: true
+    code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+## Background
+
+```{r}
+# Hi here's my code! 
+
+Teddy <- 3+10
+plot(mtcars)
+```
+
+
+## Sources
+
+### Something else 
+
+# Another chapter! 
+
+## Cool 
+
+## Stuff
+
+### More stuff 
